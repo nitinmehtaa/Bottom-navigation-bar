@@ -77,8 +77,8 @@ class _HomeState extends State<Home> {
                     size: 30.0,
                   ),
                   Positioned(
-                      top: -5.0,
-                      right: -8.0,
+                      top: -8.0,
+                      right: -4.0,
                       child: Material(
                         type: MaterialType.circle,
                         elevation: 2.0,
