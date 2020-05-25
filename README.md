@@ -1,4 +1,4 @@
-# battomnavigationbar
+# Bottomnavigationbar
 
 A new Flutter application.
 
